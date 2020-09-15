@@ -11,8 +11,8 @@
 }
 
 .header img{
-    height: 60px;
-    width: 80px;
+    height: 80px;
+    width: 90px;
 }
 
 .menu ul{
@@ -29,14 +29,26 @@
     margin-left: 32px;
 }
 
-.h2{
-    justify-content: center;
+.caja2{
+    display:flex;
+    margin-left: 20px;
+    
 }
 
-.caja2{
-    justify-content: space-between;
+.tarjeta{
+    box-shadow: 3px 3px 15px;
+
 }
 
 .img{
     margin: 20px;
+}
+
+.about{
+    margin: 20px;
+
+}
+
+.gris{
+    background-color: gray;
 }
