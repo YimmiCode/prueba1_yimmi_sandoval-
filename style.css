@@ -1,0 +1,15 @@
+.body{
+    font-family: 'Satisfy', cursive;
+}
+
+.header{
+        font-family: 'Raleway', sans-serif;
+        display:flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 20px;
+}
+
+.h2{
+    justify-content: center;
+}
