@@ -10,6 +10,33 @@
         margin: 20px;
 }
 
+.header img{
+    height: 60px;
+    width: 80px;
+}
+
+.menu ul{
+    display:flex;
+}
+
+.menu ul li{
+    list-style-type: none;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    color:var(--DesaturatedBlue);
+    margin-left: 32px;
+}
+
 .h2{
     justify-content: center;
+}
+
+.caja2{
+    justify-content: space-between;
+}
+
+.img{
+    margin: 20px;
 }
