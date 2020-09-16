@@ -8,8 +8,8 @@
 }
 
 .header img{
-    height: 80px;
-    width: 90px;
+    height: 100px;
+    width: 150px;
 }
 
 .menu ul{
@@ -29,7 +29,8 @@
 .caja2{
     display:grid;
     grid-template-columns: 1fr 1fr 1fr;
- 
+    background-color: rgb(246, 246, 246);
+    padding: 50px;
 }
 
 .tarjeta{
@@ -39,13 +40,28 @@
 }
 
 .img{
-    margin: 20px;
+   background: url(../prueba1/img/perfff.jpg);
+   height: 700px;
+   
+   color: rgb(204, 238, 51);
+}
+
+.tmg{
+    font-size: 80px;
+    color: rgb(204, 238, 51);
+    text-align: center;
 }
 
 .about{
     margin: 20px;
     height: 100%;
     width: 100%;
+    text-align: left;
+}
+
+.abouta{
+    text-align: right;
+    
 }
 
 .gris{
@@ -58,5 +74,5 @@
     justify-content: space-between;
     align-items: center;
     margin: 20px;
-    display: flex;
+    
 }
